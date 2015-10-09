@@ -1,0 +1,18 @@
+{
+    "name": "octoweb/yii2-widgets",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+	"version":"1.0.0",
+    "authors":[
+    	{
+            "name": "Octo Web",
+            "email": "admin@octo-web.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "octoweb\\widgets\\": ""
+        }
+    }
+}
