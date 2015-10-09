@@ -1,5 +1,5 @@
 <?php
-namespace octoweb/widgets;
+namespace octoweb\widgets;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
